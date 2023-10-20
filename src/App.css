@@ -1,0 +1,14 @@
+:root {
+    --bg-color: #;
+    --text-color: #;
+}
+
+body.light {
+    --bg-color: #;
+    --text-color: #;
+}
+
+body.dark {
+    --bg-color: #;
+    --text-color: #;
+}
